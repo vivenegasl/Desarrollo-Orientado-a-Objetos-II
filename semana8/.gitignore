@@ -1,0 +1,14 @@
+# Compiled class files
+out/
+target/
+*.class
+
+# IntelliJ IDEA project files
+.idea/workspace.xml
+.idea/shelf/
+*.iws
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
